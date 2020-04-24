@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-path_start(pth_level1, global.spd, path_action_stop, 1);
-hp = global.hp
+instance_destroy();
+instance_create_depth(mouse_x, mouse_y, -1, obj_tower1);
