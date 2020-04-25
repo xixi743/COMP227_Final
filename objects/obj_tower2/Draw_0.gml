@@ -3,8 +3,7 @@
 
 draw_self();
 if (mouseover(x, y, sprite_width, sprite_height)) {
-	draw_circle(x, y, range, true); 
-	// draw a circle to show range
+	draw_circle(x, y, range, true); // draw a circle to show range
 }
 
 var en = instance_nearest(x, y, obj_enemy);
