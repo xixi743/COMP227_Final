@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "4173d7bc-35a2-403d-a8f4-258d46bd5099",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
             "Key": "7aca7359-c394-452e-bcb5-037c8838febf",
             "Value": {
                 "id": "2801ef47-4fb3-449f-b5ff-a8a3073289e1",
@@ -380,6 +388,14 @@
                 "id": "709485ae-16c7-44d4-965c-8e14f60a8971",
                 "resourcePath": "sprites\\spr_tree2\\spr_tree2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "92cc1225-78f6-4a06-af10-05767aeef78b",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
             }
         },
         {
@@ -412,6 +428,14 @@
                 "id": "460d7d32-aec2-445b-8a04-51816f7b20a8",
                 "resourcePath": "views\\83c82f1e-1869-4d01-89d5-2eaf5701af2c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "84b57c72-f0ce-4772-babb-0ee6d19c90c3",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
             }
         },
         {
@@ -455,6 +479,14 @@
             }
         },
         {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "09de924e-6b1f-4fd7-9a1f-f217e907ce23",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
             "Key": "940feb7c-84e7-40a3-94c4-6f9a30f62249",
             "Value": {
                 "id": "0b692682-a94f-4082-a682-804924b71358",
@@ -468,6 +500,14 @@
                 "id": "3561d6ef-e00a-4bcf-8ea1-67f7e94bbfd9",
                 "resourcePath": "sprites\\grass05\\grass05.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "fbd602dd-ccfd-4aa8-a9df-ca413df8f033",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -515,6 +555,14 @@
             "Value": {
                 "id": "5f9e7be4-ec60-4520-9653-31ee12599169",
                 "resourcePath": "objects\\obj_squirrel\\obj_squirrel.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ad5c6469-e4ce-442e-8314-4cf736043484",
+            "Value": {
+                "id": "ab573a72-c5b3-4fc2-923d-db35a3d36fdb",
+                "resourcePath": "objects\\obj_damage\\obj_damage.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -599,6 +647,14 @@
             }
         },
         {
+            "Key": "d328a2e5-afc4-4e69-9f2f-7ec5f32cf2fd",
+            "Value": {
+                "id": "f917f060-8394-4188-a73e-4ed9bee9a57b",
+                "resourcePath": "objects\\obj_health\\obj_health.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d3e592a5-bb92-4fc8-8b13-856ee72b67b1",
             "Value": {
                 "id": "ef8daad0-0a1d-4015-9b73-86d7e5370b7f",
@@ -652,6 +708,14 @@
                 "id": "f2609579-c252-41ab-ab95-d0cdb78489e0",
                 "resourcePath": "views\\e121dc35-4daa-4d90-bc12-26ca54826ca1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "fbf1471f-b1fd-486d-8168-8e36adc4c17e",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
             }
         },
         {

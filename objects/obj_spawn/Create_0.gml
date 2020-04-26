@@ -11,7 +11,7 @@ alarm[1] = room_speed * 5; // alarm is called every 5 seconds
 // time to put more towers down
 
 global.hp = 100;
-global.spd = 1;
+global.spd = 2;
 global.level = 1;
 
 global.coins = 1000;
