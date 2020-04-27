@@ -4,3 +4,6 @@
 path_start(pth_level1, global.spd, path_action_stop, 1);
 hp = global.hp
 damage_dealt = 1; // how much damage this enemy does vs buildings
+
+image_xscale = 2;
+image_yscale = 2;

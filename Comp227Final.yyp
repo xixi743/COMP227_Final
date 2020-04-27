@@ -559,14 +559,6 @@
             }
         },
         {
-            "Key": "acd44555-8831-484e-97d4-eecfbcd85557",
-            "Value": {
-                "id": "5f9e7be4-ec60-4520-9653-31ee12599169",
-                "resourcePath": "objects\\obj_squirrel\\obj_squirrel.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "ad5c6469-e4ce-442e-8314-4cf736043484",
             "Value": {
                 "id": "ab573a72-c5b3-4fc2-923d-db35a3d36fdb",
