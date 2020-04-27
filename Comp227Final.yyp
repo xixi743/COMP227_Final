@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "2e07d947-3628-4608-8015-0f99c78dbf3d",
+            "Value": {
+                "id": "e61c0bf8-6796-44e5-89db-7838c9a5df2d",
+                "resourcePath": "objects\\obj_spawn2\\obj_spawn2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2f4260eb-e612-4e32-9305-ecf311bb95bc",
             "Value": {
                 "id": "3f7f389a-bdc0-4704-93ad-3f8b1c67b538",
@@ -487,6 +495,14 @@
             }
         },
         {
+            "Key": "8932f3e3-c796-4fc8-a261-3c5b0fb462f4",
+            "Value": {
+                "id": "f6a0df98-e8ff-46f2-9e9c-aeee6ab71ccd",
+                "resourcePath": "rooms\\roomTutorial\\roomTutorial.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "91b31f31-1c00-43b4-a707-74f043947691",
             "Value": {
                 "id": "3ba8dc98-a852-4740-a6d0-31bcc04c3693",
@@ -659,14 +675,6 @@
             "Value": {
                 "id": "2b494b45-c1ac-417a-965f-fdbead502a7a",
                 "resourcePath": "objects\\obj_thorne\\obj_thorne.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "d328a2e5-afc4-4e69-9f2f-7ec5f32cf2fd",
-            "Value": {
-                "id": "f917f060-8394-4188-a73e-4ed9bee9a57b",
-                "resourcePath": "objects\\obj_health\\obj_health.yy",
                 "resourceType": "GMObject"
             }
         },

@@ -1,8 +1,15 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-show_debug_message("colided");
-global.thorne_hp--;
+show_debug_message("collided");
+
+// find out which path im on
+if (path_get_name(0) == true) {
+	global.thorne_hp--;
+}
+else if (path_get_name(1) == true) {
+	global.AGC_hp--;
+}
 
 // fancy damage effect
 with other {
