@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "3092c0c6-187c-4c0e-8876-32d47f1db5f3",
+            "Value": {
+                "id": "051faded-1aea-4dad-8238-ec6df3608ff5",
+                "resourcePath": "paths\\pth_level2\\pth_level2.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "3172b437-4f2d-473a-9a99-f59f3c6c5946",
             "Value": {
                 "id": "b71c7e4a-e045-4ad9-9239-f24fe715989d",
