@@ -311,10 +311,26 @@
             }
         },
         {
+            "Key": "5fa671ff-f166-4dd0-bc39-968cb38c7ba3",
+            "Value": {
+                "id": "399b4c0e-faaf-4614-90d2-e2ee2c639d57",
+                "resourcePath": "sprites\\ThorneHallOld\\ThorneHallOld.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "62bcbf76-d4c6-4f6b-baf5-8c62f6db1c41",
             "Value": {
                 "id": "2aefcd4b-9874-4fc4-997d-03f0a7bd6a60",
                 "resourcePath": "objects\\obj_tower_parent\\obj_tower_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "64bdd002-4c4c-49bb-83c4-90cf62574dbd",
+            "Value": {
+                "id": "bd167cbe-5a1a-4ae1-94a7-2402e01b4633",
+                "resourcePath": "objects\\obj_AGC\\obj_AGC.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -700,6 +716,14 @@
                 "id": "1daa4ef4-a9ef-4ebf-bb4b-55351c498966",
                 "resourcePath": "objects\\obj_tower3d\\obj_tower3d.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e02ddc17-815d-4f95-94e2-295e9ee86fc9",
+            "Value": {
+                "id": "341b5dd7-bacf-4db9-ac21-427e2d2194e2",
+                "resourcePath": "sprites\\AGC\\AGC.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
