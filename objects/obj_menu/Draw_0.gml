@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Drawing the Menu
 
 var i = 0;
 repeat (buttons) {

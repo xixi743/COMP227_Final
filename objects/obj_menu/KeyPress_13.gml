@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Select Menu Item
 
 switch (menu_index) {
 	case 0: 
