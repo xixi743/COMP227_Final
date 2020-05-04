@@ -6,7 +6,8 @@
     "children": [
         "7aca7359-c394-452e-bcb5-037c8838febf",
         "f9de3b79-87dc-4b45-a093-c6dbf190d6da",
-        "dff01379-755f-411e-ab26-7b640c305e24"
+        "dff01379-755f-411e-ab26-7b640c305e24",
+        "2bf6b4c3-ffb7-4b7a-ab38-2e288f4ee19a"
     ],
     "filterType": "GMObject",
     "folderName": "Tower Dragged",

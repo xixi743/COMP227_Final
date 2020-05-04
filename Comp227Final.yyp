@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "2bf6b4c3-ffb7-4b7a-ab38-2e288f4ee19a",
+            "Value": {
+                "id": "0f525dcb-6a93-4ffc-8f87-eaf80c282151",
+                "resourcePath": "objects\\obj_handsani_towerd\\obj_handsani_towerd.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2e07d947-3628-4608-8015-0f99c78dbf3d",
             "Value": {
                 "id": "e61c0bf8-6796-44e5-89db-7838c9a5df2d",
@@ -380,6 +388,14 @@
                 "id": "239878e0-fbcd-484f-afca-196cfba3ab9a",
                 "resourcePath": "views\\563eb30d-168b-47e5-9517-16cd61f00216.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5b1df55a-9071-4ac1-a265-e1508d867f6d",
+            "Value": {
+                "id": "9ae5af79-9fea-46c9-ab7a-7ff708b85a59",
+                "resourcePath": "sprites\\AvailableTowersBackground\\AvailableTowersBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -615,6 +631,14 @@
             }
         },
         {
+            "Key": "8c86a3f4-d4c6-4cee-b1b9-007bb1a1c911",
+            "Value": {
+                "id": "940c5674-624c-49e1-a675-70381df0d306",
+                "resourcePath": "objects\\obj_handsani_towerc\\obj_handsani_towerc.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "91b31f31-1c00-43b4-a707-74f043947691",
             "Value": {
                 "id": "3ba8dc98-a852-4740-a6d0-31bcc04c3693",
@@ -676,6 +700,14 @@
                 "id": "b0d7993f-777c-4f40-a38e-6515d320adca",
                 "resourcePath": "views\\a23c21e1-78e1-4dd2-b3ed-f2df41e4df97.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2a5e64c-8da2-4406-93b1-7bb57632a641",
+            "Value": {
+                "id": "f23dfee5-7258-4909-a3f8-4b4ddc458ef1",
+                "resourcePath": "objects\\obj_handsani_tower\\obj_handsani_tower.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -847,6 +879,14 @@
             }
         },
         {
+            "Key": "d8b260fe-b8f7-4f01-98f0-81bf3f1db4a9",
+            "Value": {
+                "id": "7e1afa17-ba11-4d66-9dd4-0287ed8d9fcb",
+                "resourcePath": "sprites\\spr_region2\\spr_region2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d93d7887-6c7c-429a-b928-78b1a8ccdf06",
             "Value": {
                 "id": "94b11890-0944-449e-aba0-4f59c7a06fb9",
@@ -980,6 +1020,14 @@
                 "id": "88c398f5-ddf0-40a9-aefa-7714c93f8670",
                 "resourcePath": "sprites\\grass03\\grass03.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe2cf143-e0b4-465a-ad60-ce64638efc3c",
+            "Value": {
+                "id": "79e386e9-5547-4804-bd05-c3e46d8927b9",
+                "resourcePath": "objects\\obj_region2\\obj_region2.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
