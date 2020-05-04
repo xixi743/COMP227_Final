@@ -3,7 +3,7 @@
 
 //Enemy proggression
 
-if (instance_number(obj_enemy) <= 0) {
+if (instance_number(obj_sqorl) <= 0) {
 	// all the enemies are out of the game
 	spawn_count = 0;
 	spawn_amount++; // adding one enemy each wave

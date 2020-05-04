@@ -314,7 +314,7 @@
             "Key": "41716e18-a55e-4274-b134-8be7dd090d54",
             "Value": {
                 "id": "37bb77db-fea7-4406-a10c-b1f80d682d39",
-                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourcePath": "objects\\obj_sqorl\\obj_sqorl.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -796,6 +796,14 @@
                 "id": "64626649-b04c-4aec-8f11-a19239cdba93",
                 "resourcePath": "sprites\\spr_tower3\\spr_tower3.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c561a6b7-5230-4241-a64d-c95166f1d7bc",
+            "Value": {
+                "id": "013b9dbf-2c44-4efa-b088-9d2b5826c8a4",
+                "resourcePath": "rooms\\room2\\room2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

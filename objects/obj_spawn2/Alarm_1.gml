@@ -3,7 +3,7 @@
 
 //Enemy proggression
 
-if ((instance_number(obj_enemy) <= 0) && (global.AGC_bonus == 1)) {
+if ((instance_number(obj_sqorl) <= 0) && (global.AGC_bonus == 1)) {
 	// runs when AGC is bought
 
 	// all the enemies are out of the game

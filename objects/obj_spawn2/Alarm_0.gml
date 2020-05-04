@@ -4,7 +4,7 @@
 if(spawn_count < spawn_amount && global.AGC_bonus == 1) {
 	// starts spawning when AGC is bought
 	// creating enemies
-	instance_create_depth (x, y, -1, obj_enemy);
+	instance_create_depth (x, y, -1, obj_sqorl);
 	spawn_count++;
 	
 	//alarm[0] = spawn_rate;
