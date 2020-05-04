@@ -9,3 +9,4 @@ global.thorne_hp = 5;
 // building bonuses set here
 global.Thorne_bonus = 0;
 global.AGC_bonus = 0;
+global.NC_bonus = 0;

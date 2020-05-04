@@ -1,50 +1,58 @@
 {
-    "id": "fa1ed63d-dc66-4fe9-8c2e-f6730160147e",
+    "id": "55d3a95a-54f4-40ae-951d-c6c7f40eef98",
     "modelName": "GMPath",
     "mvc": "1.0",
-    "name": "pth_level1",
+    "name": "pth_Thorne2",
     "closed": false,
     "hsnap": 0,
     "kind": 0,
     "points": [
         {
-            "id": "9d5ffd3b-28c2-4b0a-b8b4-7f5b7af0a809",
+            "id": "036079de-a142-4dc1-81e3-3607ecd3e60a",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 1088,
-            "y": 544,
+            "x": 544,
+            "y": -32,
             "speed": 100
         },
         {
-            "id": "f197df0b-2393-4e8e-bd1c-2f0400673a3b",
+            "id": "dacb9258-52d7-44f7-902d-2d01d4fc5abf",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 768,
-            "y": 544,
+            "x": 544,
+            "y": 224,
             "speed": 100
         },
         {
-            "id": "a882cf7f-0db0-4f02-8912-10865ef15489",
+            "id": "0cd12e18-3f63-4bf5-b6c4-ca50051dbbea",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 768,
+            "x": 640,
+            "y": 224,
+            "speed": 100
+        },
+        {
+            "id": "53152c7c-2b9f-4914-8dec-985e49e16645",
+            "modelName": "GMPathPoint",
+            "mvc": "1.0",
+            "x": 640,
             "y": 352,
             "speed": 100
         },
         {
-            "id": "aa12fd4b-92e7-45fc-82b2-5aed9a9b5d1e",
+            "id": "cd51205a-fedc-438f-a1c7-ace9c0aabbc8",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 128,
+            "x": 192,
             "y": 352,
             "speed": 100
         },
         {
-            "id": "828baeca-cd0e-4ac3-aa91-c9aa616f969f",
+            "id": "2be40011-14d3-446d-be05-e2ea9a39794d",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 128,
-            "y": 320,
+            "x": 192,
+            "y": 192,
             "speed": 100
         }
     ],

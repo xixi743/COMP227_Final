@@ -1,0 +1,10 @@
+/// @description Insert description here
+// You can write your code in this editor
+
+if (isPurchased == 0) { draw_text(x - 100, y - 50, "access to Norris Chem for 200 coins"); }
+else {
+	draw_self();
+	draw_set_color(c_orange);
+	draw_set_halign(fa_left);
+	draw_text_transformed(x-80, y-125, "Health: " + string(global.NC_hp), scale, scale, 0);
+}
