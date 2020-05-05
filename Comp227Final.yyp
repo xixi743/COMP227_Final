@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "326bb07f-896a-4314-bfc1-adf13b329d83",
+            "Value": {
+                "id": "ae7250c4-ff20-4337-b716-f3c6f9dde796",
+                "resourcePath": "objects\\obj_button_exit\\obj_button_exit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "37f184a4-c00c-4d4d-9b5e-458ecc5d4634",
             "Value": {
                 "id": "d7daf25d-05c0-4523-bd73-7746b1a6879a",
@@ -364,6 +372,14 @@
                 "id": "97bec91c-1088-42ed-bd48-da322c71927e",
                 "resourcePath": "views\\458011a1-c594-4943-affb-7252fa8766ee.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "46f737a6-22dd-44c1-be4f-f47464dfe51c",
+            "Value": {
+                "id": "8ab6e66b-2f76-42b0-bcd4-77432332b07f",
+                "resourcePath": "sprites\\spr_button\\spr_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -691,6 +707,14 @@
             "Value": {
                 "id": "940c5674-624c-49e1-a675-70381df0d306",
                 "resourcePath": "objects\\obj_handsani_towerc\\obj_handsani_towerc.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8eb4cb90-829e-499c-bd17-34b75bbbdcc9",
+            "Value": {
+                "id": "1eacd41d-f629-4799-9a11-9df1ca6c0d42",
+                "resourcePath": "objects\\obj_button_start\\obj_button_start.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1028,6 +1052,14 @@
                 "id": "fbf1471f-b1fd-486d-8168-8e36adc4c17e",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e4e85992-e926-4900-b2cf-0036da1c15e8",
+            "Value": {
+                "id": "41299f63-283a-4d9e-ae91-292786ee780f",
+                "resourcePath": "views\\e4e85992-e926-4900-b2cf-0036da1c15e8.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
