@@ -23,7 +23,9 @@
         "940feb7c-84e7-40a3-94c4-6f9a30f62249",
         "99c37b89-6de5-47e4-b418-1766e7b4f784",
         "3fac2fe4-3736-428a-84aa-25391ef7214c",
-        "2f46feab-15fc-4390-ba02-a6603bf99156"
+        "2f46feab-15fc-4390-ba02-a6603bf99156",
+        "1a8898ac-8f5d-432f-848a-ca38bd61a983",
+        "dbb6370b-338b-4950-99b0-c2e662510510"
     ],
     "filterType": "GMSprite",
     "folderName": "Grass Textures",

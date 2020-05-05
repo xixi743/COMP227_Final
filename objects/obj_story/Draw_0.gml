@@ -9,7 +9,7 @@ story_y = 100;
 
 draw_set_font(fnt_little);
 draw_set_halign(fa_left);
-draw_text(story_x, 715, "Press '->' to advance to next page. Press 'SPACE' to skip to finish scrolling.");
+draw_text(story_x, 715, "Press 'SPACE' to skip to finish scrolling. Press '->' to advance to next page.");
 draw_text(story_x, 740, "Press 'ESC' to skip the story.");
 
 draw_set_font(fnt_story);
