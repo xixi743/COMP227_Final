@@ -2,7 +2,7 @@
     "id": "22c5e980-a6d8-44f2-aa39-7039bdd87c8f",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite45",
+    "name": "spr_expanding_circle",
     "For3D": false,
     "HTile": false,
     "VTile": false,
