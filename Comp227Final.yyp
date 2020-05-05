@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "0272c586-5e03-4d36-8a61-b013af88d31a",
+            "Value": {
+                "id": "1dd746de-93d1-4f1d-b08c-c67af51ec418",
+                "resourcePath": "objects\\obj_koxyspeaker_towerd\\obj_koxyspeaker_towerd.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0391eeb1-7532-44fc-a9fd-98ed064019a7",
             "Value": {
                 "id": "25026c0b-27ed-431f-b8e0-b429d161de2f",
@@ -210,7 +218,7 @@
             "Key": "22c5e980-a6d8-44f2-aa39-7039bdd87c8f",
             "Value": {
                 "id": "b9f46446-ca90-41c8-b2a5-eae4616d1da5",
-                "resourcePath": "sprites\\sprite45\\sprite45.yy",
+                "resourcePath": "sprites\\spr_circle\\spr_circle.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -583,6 +591,14 @@
             }
         },
         {
+            "Key": "79eacfd8-c911-4094-89be-53286cf94ebf",
+            "Value": {
+                "id": "9d09b0c5-85a5-47c9-bcf3-0109010d5366",
+                "resourcePath": "objects\\obj_circle\\obj_circle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7aca7359-c394-452e-bcb5-037c8838febf",
             "Value": {
                 "id": "2801ef47-4fb3-449f-b5ff-a8a3073289e1",
@@ -732,6 +748,14 @@
                 "id": "e2476d25-f5e4-4a8a-b8e8-ef0b4129c577",
                 "resourcePath": "views\\92a7d417-f942-477f-af8e-e6656f0c6e75.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "92dfd497-bc34-42cc-8370-4189f9a8b879",
+            "Value": {
+                "id": "05091425-a404-477a-885b-d815c048b7ca",
+                "resourcePath": "objects\\obj_koxyspeaker_tower\\obj_koxyspeaker_tower.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -987,6 +1011,14 @@
             "Value": {
                 "id": "94b11890-0944-449e-aba0-4f59c7a06fb9",
                 "resourcePath": "objects\\obj_tower2\\obj_tower2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "da032b45-15b6-4ef1-8178-3acd4656d5e9",
+            "Value": {
+                "id": "ffb2a7e3-211d-4ff5-beb2-4b2511ea6767",
+                "resourcePath": "objects\\obj_koxyspeaker_towerc\\obj_koxyspeaker_towerc.yy",
                 "resourceType": "GMObject"
             }
         },
