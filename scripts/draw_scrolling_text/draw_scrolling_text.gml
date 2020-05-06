@@ -66,6 +66,7 @@ currentText = ds_list_find_value(text,textPos);
 
 //Adds the character position of the current text to the displayed text.
 if (currentText!=undefined){
+	//show_debug_message("current text not undefined");
 	//Checks if the wait timer is up.
 	if (textWait==0){
 		//Sets the wait timer if a comma is detected.
@@ -81,6 +82,7 @@ if (currentText!=undefined){
 }else{
 	//Executes a script if a script exists.
 	if (script!=undefined){
+		//show_debug_message("execute script");
 		script_execute(script);
 	}
 	//Undefines all the used variables.

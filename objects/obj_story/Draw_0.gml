@@ -33,4 +33,5 @@ ds_list_add(story, "Press ESC to continue to the rest of the game...");
 // and I specifically want it to run AFTER the story scrolling is done
 // so idk what it going on there.
 
-draw_scrolling_text(story_x, story_y, story, 60, 990, 0.3, 10, key_advance, key_skip, false);
+draw_scrolling_text(story_x, story_y, story, 60, 990, 0.3, 10, key_advance, key_skip, nextRoom);
+
