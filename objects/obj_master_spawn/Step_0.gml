@@ -1,4 +1,4 @@
-/// @description Triggers Next Level
+/// @description Insert description here
 // You can write your code in this editor
 
 // trigger for moving to level 1 (from tutorial level)
