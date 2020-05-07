@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 if(spawn_count < spawn_amount && global.NC_bonus == 1) {
-	// starts spawning when AGC is bought
+	// starts spawning when NC is bought
 	// creating enemies
 	instance_create_depth(x, y, -1, obj_sqorl);
 	spawn_count++;

@@ -4,7 +4,7 @@
 //Enemy proggression
 
 if ((instance_number(obj_sqorl) <= 0) && (global.NC_bonus == 1)) {
-	// runs when AGC is bought
+	// runs when NC is bought
 
 	// all the enemies are out of the game
 	spawn_count = 0;

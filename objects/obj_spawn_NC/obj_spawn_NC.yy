@@ -2,7 +2,7 @@
     "id": "37f184a4-c00c-4d4d-9b5e-458ecc5d4634",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_spawn3",
+    "name": "obj_spawn_NC",
     "eventList": [
         {
             "id": "db8af5b2-84e1-4b39-aced-8ac948abf5b1",
@@ -31,6 +31,16 @@
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "37f184a4-c00c-4d4d-9b5e-458ecc5d4634"
+        },
+        {
+            "id": "c6833710-8cef-4de1-bf40-306d31e65365",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
             "eventtype": 2,
             "m_owner": "37f184a4-c00c-4d4d-9b5e-458ecc5d4634"
         }

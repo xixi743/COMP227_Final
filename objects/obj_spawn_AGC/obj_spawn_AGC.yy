@@ -2,7 +2,7 @@
     "id": "2e07d947-3628-4608-8015-0f99c78dbf3d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_spawn2",
+    "name": "obj_spawn_AGC",
     "eventList": [
         {
             "id": "95fe8dd6-15c6-41dd-b849-149ddb1f4fa1",

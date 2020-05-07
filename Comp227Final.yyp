@@ -250,7 +250,7 @@
             "Key": "2e07d947-3628-4608-8015-0f99c78dbf3d",
             "Value": {
                 "id": "e61c0bf8-6796-44e5-89db-7838c9a5df2d",
-                "resourcePath": "objects\\obj_spawn2\\obj_spawn2.yy",
+                "resourcePath": "objects\\obj_spawn_AGC\\obj_spawn_AGC.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -322,7 +322,7 @@
             "Key": "37f184a4-c00c-4d4d-9b5e-458ecc5d4634",
             "Value": {
                 "id": "d7daf25d-05c0-4523-bd73-7746b1a6879a",
-                "resourcePath": "objects\\obj_spawn3\\obj_spawn3.yy",
+                "resourcePath": "objects\\obj_spawn_NC\\obj_spawn_NC.yy",
                 "resourceType": "GMObject"
             }
         },
