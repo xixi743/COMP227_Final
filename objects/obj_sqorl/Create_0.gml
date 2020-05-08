@@ -54,7 +54,7 @@ if (room == 5) {
 }
 
 
-hp = global.hp
+hp = global.hp;
 damage_dealt = 1; // how much damage this enemy does vs buildings
 
 image_xscale = 2;
