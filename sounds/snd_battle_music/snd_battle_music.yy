@@ -1,8 +1,8 @@
 {
-    "id": "d2e89e0e-00d9-4a12-8a67-40b9f3ea0482",
+    "id": "730f3f57-62cc-4cfd-a3f5-b961211fab14",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "snd_title_music",
+    "name": "snd_battle_music",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

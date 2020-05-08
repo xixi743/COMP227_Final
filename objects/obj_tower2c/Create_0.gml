@@ -5,3 +5,4 @@
 // use that to buy towers
 cost = 100;
 
+hovering = false;

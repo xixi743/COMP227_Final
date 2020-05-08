@@ -599,6 +599,14 @@
             }
         },
         {
+            "Key": "730f3f57-62cc-4cfd-a3f5-b961211fab14",
+            "Value": {
+                "id": "45e32839-ce48-4fac-9039-d17cf405f23b",
+                "resourcePath": "sounds\\snd_battle_music\\snd_battle_music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "758a0094-36d4-4b76-880c-c5bcc33c5833",
             "Value": {
                 "id": "8ec2c55c-0bf7-435d-9a8c-53b16d24985d",
