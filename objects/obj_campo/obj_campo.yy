@@ -25,16 +25,6 @@
             "m_owner": "4fbc707d-00bf-4f89-9e22-cd8bbaf88ae6"
         },
         {
-            "id": "fd799c36-517d-468d-8ad6-1d9ea1afc9cd",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "41716e18-a55e-4274-b134-8be7dd090d54",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "4fbc707d-00bf-4f89-9e22-cd8bbaf88ae6"
-        },
-        {
             "id": "605b12c1-5907-428d-93d3-1da18b8e1feb",
             "modelName": "GMEvent",
             "mvc": "1.0",
