@@ -78,11 +78,11 @@ if (room == 7) {
 }
 // for stage 6
 if (room == 8) { 
-	if (x == -64 && y == 128){ // DO NOT CHANGE SPAWNER LOCATIONS
-		path_start(pth_Facilities1, global.spd, path_action_stop, 1);
+	if (x == 288 && y == -96){ // DO NOT CHANGE SPAWNER LOCATIONS
+		path_start(pth_Cooler4, global.spd, path_action_stop, 1);
 	}
-	else if (x == 1056 && y == 576) {
-		path_start(pth_Cooler3, global.spd, path_action_stop, 1);
+	else if (x == 704 && y == 768) {
+		path_start(pth_Thorne3, global.spd, path_action_stop, 1);
 	}
 	else {
 		show_debug_message("spawn error");
