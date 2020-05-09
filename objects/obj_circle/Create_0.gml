@@ -1,8 +1,9 @@
 /// @description
 image_speed = 1;
-image_xscale = 2;
-image_yscale = 2;
+image_xscale = 3;
+image_yscale = 3;
 
-radius = 60; // hard set
+//radius = 60; // hard set
 
-alarm[0] = 1 * room_speed;
+//alarm[0] = 1 * room_speed;
+enemies_touched = ds_list_create();
