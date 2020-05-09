@@ -4,7 +4,8 @@
 
 ![Sqorls_title](https://user-images.githubusercontent.com/33335169/81469084-e9fd4400-9197-11ea-843e-1c941efcdf1f.png)
 
-**Youtube demo available [here](https://youtu.be/KIY10BymADM)**
+**Youtube demo available [here](https://youtu.be/KIY10BymADM)** <br/>
+**Design document available [here](https://docs.google.com/document/d/1e5gEZVPM8EGeQ5jw1H40tPRwx9q41VjxnOXfthWgsVM/edit?usp=sharing)**
 ---
 
 ### Story:
@@ -22,24 +23,24 @@ to save the school from nature's ruin.
 
 ### Instructions:
 
-- Click on towers in the bottom right corner and then on the grass to place them. They will
-automatically target and shoot at nearby enemies.
-- Hand sanitizer can be placed on the path to damage enemies
-- Campo Car can be placed on the path to run over enemies and deal damage.
-- Hold space with the Campo Car to change direction.
-- You lose if any building reaches 0 health. Defend them at all costs!
+Click on towers in the bottom right corner and then on the grass to place them. They will
+automatically target and shoot at nearby enemies.<br/>
+Hand sanitizer can be placed on the path to damage enemies<br/>
+Campo Car can be placed on the path to run over enemies and deal damage.<br/>
+Hold space with the Campo Car to change direction.<br/>
+You lose if any building reaches 0 health. Defend them at all costs!<br/>
 
 ![sqorls_screenshot](https://user-images.githubusercontent.com/33335169/81467976-3d1fc880-9191-11ea-9878-f0e707cfd165.png)
 
 
 ### Credits:
 
-- Game by: Alexis Hale and Sherwin Zhang
-- Story by: Alexis Hale and Sherwin Zhang
-- Menu and In-game music originally composed by: Sherwin Zhang
-- Art by: Alexis Hale
-
-- Car engine sound: https://freesound.org/people/davidbain/sounds/209864/
-- Menu sound from https://freesound.org/people/malle99/sounds/496760/
-- Spider sprite art: https://elthen.itch.io/2d-pixel-art-spider-sprites
-- Pixel squirrel art: https://opengameart.org/content/pixel-squirrel
+Game by: Alexis Hale and Sherwin Zhang<br/>
+Story by: Alexis Hale and Sherwin Zhang<br/>
+Menu and In-game music originally composed by: Sherwin Zhang<br/>
+Art by: Alexis Hale<br/>
+<br/>
+Car engine sound: https://freesound.org/people/davidbain/sounds/209864/<br/>
+Menu sound from https://freesound.org/people/malle99/sounds/496760/<br/>
+Spider sprite art: https://elthen.itch.io/2d-pixel-art-spider-sprites<br/>
+Pixel squirrel art: https://opengameart.org/content/pixel-squirrel<br/>
