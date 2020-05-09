@@ -43,8 +43,19 @@ if(spawn_count < spawn_amount) {
 	if (room == 6) {
 		instance_create_depth(obj_spawn3.x, obj_spawn3.y, -1, obj_sqorl);
 		instance_create_depth(obj_spawn4.x, obj_spawn4.y, -1, obj_spider);
-		// spawn on spawn2 if agc bonus = 1
+		// spawn on spawn1 and spawn2 if swann bought = 1
 		if (global.swann_bonus = 1) {
+			instance_create_depth(obj_spawn1.x, obj_spawn1.y, -1, obj_sqorl);
+			instance_create_depth(obj_spawn2.x, obj_spawn2.y, -1, obj_spider);
+			
+		}
+	}
+	// if stage 5, start spawning on spawn3 and spawn4
+	if (room == 7) {
+		instance_create_depth(obj_spawn3.x, obj_spawn3.y, -1, obj_sqorl);
+		instance_create_depth(obj_spawn4.x, obj_spawn4.y, -1, obj_spider);
+		// spawn on spawn1 and spawn2 if facilities bonus = 1
+		if (global.facilities_bonus = 1) {
 			instance_create_depth(obj_spawn1.x, obj_spawn1.y, -1, obj_sqorl);
 			instance_create_depth(obj_spawn2.x, obj_spawn2.y, -1, obj_spider);
 			

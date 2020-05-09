@@ -5,9 +5,9 @@
 // activate another path
 // activate NC bonus (activate chem throwers)
 
-if (isPurchased == 0) {
+if (isPurchased == 0 && global.coins >= cost) {
 	isPurchased = 1;
-	global.coins-= 200;
+	global.coins-= cost;
 	global.NC_bonus = 1;
 	layer_set_visible("Assets", true);
 }

@@ -21,6 +21,7 @@ automatically target and shoot at nearby enemies
 Hand sanitizer can be placed on the path to damage enemies
 Campo Car can be placed on the path to run over enemies and deal damage.
 Hold space with the Campo Car to change direction.
+You lose if any building reaches 0 health. Defend them at all costs!
 
 
 Credits:

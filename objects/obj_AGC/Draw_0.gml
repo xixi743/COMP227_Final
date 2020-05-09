@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if (isPurchased == 0) { draw_text(x - 100, y - 50, "access to AGC for 200 coins"); }
+if (isPurchased == 0) { draw_text(x - 100, y - 50, "Access AGC for " + string(cost) + " coins"); }
 else {
 	draw_self();
 	draw_set_color(c_orange);
