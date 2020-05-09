@@ -2,6 +2,8 @@
 
 ## Sqorls! 
 
+![Sqorls_title](https://user-images.githubusercontent.com/33335169/81469084-e9fd4400-9197-11ea-843e-1c941efcdf1f.png)
+
 It's the spring semester of 2020 at Occidental College (also known as Oxy). We're
 unwillingly living through a historic event: the coronavirus pandemic. The school
 has been evacuated - students sent home, professors working remotely. A small group
