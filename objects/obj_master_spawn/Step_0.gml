@@ -25,6 +25,10 @@ else if (global.level == 6 && room == 6) {
 else if (global.level == 6 && room == 7) {
 	room_goto_next();
 }
+// trigger for moving to victory
+else if (global.level == 11 && room == 8) {
+	room_goto_next();
+}
 // temp trigger for moving to next level
 // REMOVE BEFORE RELEASE
 if (keyboard_check_pressed(vk_control)) {

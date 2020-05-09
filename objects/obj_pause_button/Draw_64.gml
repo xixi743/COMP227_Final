@@ -5,7 +5,12 @@
 if (!paused) {
 	draw_set_color(c_black);
 	draw_text(10, 10, "Coins: " + string(global.coins));
-	draw_text(10, 30, "Wave: " + string(global.level));
+	if (room == 8) { //final stage is long
+		draw_text(10, 30, "Wave: " + string(global.level) + "/10");
+	}
+	else {
+		draw_text(10, 30, "Wave: " + string(global.level));
+	}
 	if (room == 2) { //display stage #, unless you're on tutorial
 		draw_text(10, 50, "Stage: Tutorial");
 	}
