@@ -3,6 +3,6 @@
 
 // every time kill an enemy, get currency
 // use that to buy towers
-cost = 50;
+cost = 100;
 
 hovering = false;
