@@ -1,5 +1,6 @@
 /// @description
 
-cost = 100;
+cost = 200;
+//hovering = false;
 
 global.flipped = false;

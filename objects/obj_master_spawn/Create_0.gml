@@ -9,6 +9,6 @@ global.hp = 100;
 global.spd = 2;
 
 global.level = 1;
-global.coins = 1000;
+global.coins = 500;
 
 alarm[2] = 16 * room_speed; // every round starts with 16 seconds of waiting time
