@@ -40,6 +40,6 @@ You lose if any building reaches 0 health. Defend them at all costs!
 - Art by: Alexis Hale
 
 - Car engine sound: https://freesound.org/people/davidbain/sounds/209864/
--Menu sound from https://freesound.org/people/malle99/sounds/496760/
+- Menu sound from https://freesound.org/people/malle99/sounds/496760/
 - Spider sprite art: https://elthen.itch.io/2d-pixel-art-spider-sprites
 - Pixel squirrel art: https://opengameart.org/content/pixel-squirrel
