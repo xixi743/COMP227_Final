@@ -44,7 +44,7 @@ if (room == 8) {
 	}
 }
 
-hp = global.hp div 0.75;
+hp = global.hp;
 damage_dealt = 1; // how much damage this enemy does vs buildings
 
 image_xscale = 2;
