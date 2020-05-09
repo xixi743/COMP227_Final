@@ -22,12 +22,12 @@ to save the school from nature's ruin.
 
 ### Instructions:
 
-Click on towers in the bottom right corner and then on the grass to place them. They will
-automatically target and shoot at nearby enemies
-Hand sanitizer can be placed on the path to damage enemies
-Campo Car can be placed on the path to run over enemies and deal damage.
-Hold space with the Campo Car to change direction.
-You lose if any building reaches 0 health. Defend them at all costs!
+- Click on towers in the bottom right corner and then on the grass to place them. They will
+automatically target and shoot at nearby enemies.
+- Hand sanitizer can be placed on the path to damage enemies
+- Campo Car can be placed on the path to run over enemies and deal damage.
+- Hold space with the Campo Car to change direction.
+- You lose if any building reaches 0 health. Defend them at all costs!
 
 ![sqorls_screenshot](https://user-images.githubusercontent.com/33335169/81467976-3d1fc880-9191-11ea-9878-f0e707cfd165.png)
 
