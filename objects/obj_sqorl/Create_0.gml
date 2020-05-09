@@ -76,6 +76,18 @@ if (room == 7) {
 		show_debug_message("spawn error");
 	}
 }
+// for stage 6
+if (room == 8) { 
+	if (x == -64 && y == 128){ // DO NOT CHANGE SPAWNER LOCATIONS
+		path_start(pth_Facilities1, global.spd, path_action_stop, 1);
+	}
+	else if (x == 1056 && y == 576) {
+		path_start(pth_Cooler3, global.spd, path_action_stop, 1);
+	}
+	else {
+		show_debug_message("spawn error");
+	}
+}
 
 
 hp = global.hp;

@@ -727,6 +727,14 @@
             }
         },
         {
+            "Key": "65dad015-475f-417f-883a-484892828ecb",
+            "Value": {
+                "id": "b26c0f50-512a-4f35-ba56-dc310baef4b6",
+                "resourcePath": "objects\\obj_bulletweak\\obj_bulletweak.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6902c985-96cc-429c-8733-db079323ea10",
             "Value": {
                 "id": "93feb41a-1235-4da8-b2ba-8955da0db0b3",

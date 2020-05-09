@@ -5,13 +5,20 @@
 if (!paused) {
 	draw_set_color(c_black);
 	draw_text(10, 10, "Coins: " + string(global.coins));
-	draw_text(10, 30, "Level: " + string(global.level));
+	draw_text(10, 30, "Wave: " + string(global.level));
+	if (room == 2) { //display stage #, unless you're on tutorial
+		draw_text(10, 50, "Stage: Tutorial");
+	}
+	else {
+		draw_text(10, 50, "Stage: " + string(room - 2));
+	}
 	
-	if (waveTime > 0) { // before first wave, use alarm2
-		draw_text(10, 50, "Time until Wave: " + string(waveTime div room_speed));
+	// before first wave, use alarm2
+	if (waveTime > 0) { 
+		draw_text(10, 70, "Time until First wave: " + string(waveTime div room_speed));
 	}
 	else { 
-		// display time between each wave
+		//TODO: display time between each wave
 	}
 	draw_set_color(c_white);
 }

@@ -2,7 +2,7 @@
 {
     "name": "rm_victory",
     "id": "2f53828d-dd9b-482c-ad1f-53c7d3585faa",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
