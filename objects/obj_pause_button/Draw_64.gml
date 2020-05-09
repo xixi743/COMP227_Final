@@ -11,6 +11,7 @@ if (!paused) {
 	else {
 		draw_text(10, 30, "Wave: " + string(global.level));
 	}
+	
 	if (room == 2) { //display stage #, unless you're on tutorial
 		draw_text(10, 50, "Stage: Tutorial");
 	}
