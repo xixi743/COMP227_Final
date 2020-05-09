@@ -9,4 +9,5 @@ if (isPurchased == 0) {
 	isPurchased = 1;
 	global.coins-= 200;
 	global.NC_bonus = 1;
+	layer_set_visible("Assets", true);
 }
