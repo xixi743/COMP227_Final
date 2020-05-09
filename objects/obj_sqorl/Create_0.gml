@@ -52,6 +52,18 @@ if (room == 5) {
 		show_debug_message("spawn error");
 	}
 }
+// for stage 4
+if (room == 6) { 
+	if (x == 320 && y == -64){ // DO NOT CHANGE SPAWNER LOCATIONS
+		path_start(pth_Swann1, global.spd, path_action_stop, 1);
+	}
+	else if (x == -64 && y == 544) {
+		path_start(pth_NC4, global.spd, path_action_stop, 1);
+	}
+	else {
+		show_debug_message("spawn error");
+	}
+}
 
 
 hp = global.hp;

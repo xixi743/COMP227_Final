@@ -12,3 +12,4 @@ global.Thorne_bonus = 0;
 global.AGC_bonus = 0;
 global.NC_bonus = 1;
 global.cooler_bonus = 0;
+global.swann_bonus = 0;

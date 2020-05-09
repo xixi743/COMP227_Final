@@ -3,5 +3,5 @@
 
 isPurchased = 0;
 
-global.NC_hp = 5; // how many hits it can take
+global.swann_hp = 5; // how many hits it can take
 scale = 2;

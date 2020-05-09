@@ -8,5 +8,5 @@
 if (isPurchased == 0) {
 	isPurchased = 1;
 	global.coins-= 200;
-	global.NC_bonus = 1;
+	global.swann_bonus = 1;
 }

@@ -6,7 +6,7 @@ if (mouseover(x, y, sprite_width, sprite_height)) {
 	draw_circle(x, y, range, true); // draw a circle to show range
 }
 
-var en = instance_nearest(x, y, obj_sqorl);
+var en = instance_nearest(x, y, obj_enemy);
 if (en != noone) {
 	// if the enemy is in range of the tower
 	if (point_distance(x,y,en.x,en.y) <= range+15) {
