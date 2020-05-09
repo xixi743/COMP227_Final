@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0384eed8-971f-4154-b464-e81aebc38d58",
+            "Value": {
+                "id": "98f620ba-4826-431e-9584-51d9be2e4512",
+                "resourcePath": "sounds\\snd_campo\\snd_campo.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0391eeb1-7532-44fc-a9fd-98ed064019a7",
             "Value": {
                 "id": "25026c0b-27ed-431f-b8e0-b429d161de2f",
@@ -895,6 +903,14 @@
             }
         },
         {
+            "Key": "80b30713-0136-4a54-9fb9-40d7cc73333b",
+            "Value": {
+                "id": "a1ab239b-6e3a-4bc2-bed4-26acac18b892",
+                "resourcePath": "sprites\\pitching_machine\\pitching_machine.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "80f18698-20b2-49b6-a29f-dfd8874357db",
             "Value": {
                 "id": "b56aceb3-f410-41f0-8868-f8acdc6f0ae8",
@@ -996,6 +1012,14 @@
                 "id": "940c5674-624c-49e1-a675-70381df0d306",
                 "resourcePath": "objects\\obj_handsani_towerc\\obj_handsani_towerc.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8cafe6e5-1ae6-469a-bf55-86ed8c6cb434",
+            "Value": {
+                "id": "e5e8d4e9-f2c3-4580-9ce0-10cd7a7f235f",
+                "resourcePath": "sprites\\baseball\\baseball.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
