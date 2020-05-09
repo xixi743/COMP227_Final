@@ -8,7 +8,8 @@
         "f9de3b79-87dc-4b45-a093-c6dbf190d6da",
         "dff01379-755f-411e-ab26-7b640c305e24",
         "2bf6b4c3-ffb7-4b7a-ab38-2e288f4ee19a",
-        "0272c586-5e03-4d36-8a61-b013af88d31a"
+        "0272c586-5e03-4d36-8a61-b013af88d31a",
+        "c2ba430f-b0c9-4bbf-bf4f-5062e4a76e84"
     ],
     "filterType": "GMObject",
     "folderName": "Tower Dragged",

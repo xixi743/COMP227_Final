@@ -8,7 +8,8 @@
         "196e35f9-6682-4fda-930f-eca8abae5cc3",
         "91b31f31-1c00-43b4-a707-74f043947691",
         "8c86a3f4-d4c6-4cee-b1b9-007bb1a1c911",
-        "da032b45-15b6-4ef1-8178-3acd4656d5e9"
+        "da032b45-15b6-4ef1-8178-3acd4656d5e9",
+        "6f678642-951b-4ab3-b59f-c2a00a3c0785"
     ],
     "filterType": "GMObject",
     "folderName": "Tower Clickables",
