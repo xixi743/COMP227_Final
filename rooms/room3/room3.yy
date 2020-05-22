@@ -262,7 +262,7 @@
         },
         {
             "__type": "GMRAssetLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Tower_Bckgrnd",
+            "name": "Tower_Background",
             "id": "911bf9a0-93a3-492b-8078-29ab70a4c93e",
             "assets": [
 {"__type": "GMRSpriteGraphic_Model:#YoYoStudio.MVCFormat","name": "graphic_46E93919","id": "e7acf0e9-f960-457c-9a0a-6bed0eef3f99","animationFPS": 15,"animationSpeedType": "0","colour": { "Value": 4294967295 },"frameIndex": 0,"ignore": false,"inheritItemSettings": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRSpriteGraphic","rotation": 0,"scaleX": 1.46,"scaleY": 2.3,"mvc": "1.0","spriteId": "5b1df55a-9071-4ac1-a265-e1508d867f6d","userdefined_animFPS": false,"x": 580,"y": 672},

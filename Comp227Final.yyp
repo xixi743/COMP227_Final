@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "08fbbf60-4275-4e03-adec-cdec2cf92be3",
+            "Value": {
+                "id": "ec3fdce7-e72e-4444-bf7d-c94339e6c52b",
+                "resourcePath": "rooms\\rm_defeat\\rm_defeat.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0a4c8afe-a7cf-4cf4-885d-a0c9eae801ad",
             "Value": {
                 "id": "b1607536-89f8-4de3-a896-c28595e6894c",
@@ -956,6 +964,14 @@
                 "id": "bca0c652-d7a8-4b29-a01a-52da6ae2d903",
                 "resourcePath": "fonts\\fnt_little\\fnt_little.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "9c32e046-eafa-4835-aa3f-b1163b85500b",
+            "Value": {
+                "id": "bd55ac75-eeff-4b19-adef-62ebe60441c9",
+                "resourcePath": "objects\\object_defeat\\object_defeat.yy",
+                "resourceType": "GMObject"
             }
         },
         {

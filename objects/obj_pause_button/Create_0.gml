@@ -3,5 +3,3 @@
 
 paused = false;
 waveTime = 0;
-
-oldbackground = background_color;

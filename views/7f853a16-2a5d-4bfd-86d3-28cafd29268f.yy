@@ -14,7 +14,9 @@
         "2ae82adb-f9d9-4f14-9949-781aeeb4ae09",
         "22c5e980-a6d8-44f2-aa39-7039bdd87c8f",
         "0205ffb6-0828-4249-9dbf-45dd1769e6dd",
-        "f685b206-ce8a-426d-b347-9c408f9f664b"
+        "f685b206-ce8a-426d-b347-9c408f9f664b",
+        "80b30713-0136-4a54-9fb9-40d7cc73333b",
+        "8cafe6e5-1ae6-469a-bf55-86ed8c6cb434"
     ],
     "filterType": "GMSprite",
     "folderName": "Towers",
