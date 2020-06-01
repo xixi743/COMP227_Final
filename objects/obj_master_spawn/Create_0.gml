@@ -8,7 +8,4 @@ spawn_rate = 1 * room_speed; // 1 second
 global.hp = 100;
 global.spd = 2;
 
-global.level = 1;
-global.coins = 500;
-
 alarm[2] = 16 * room_speed; // every round starts with 16 seconds of waiting time

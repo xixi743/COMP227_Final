@@ -32,6 +32,18 @@ You lose if any building reaches 0 health. Defend them at all costs!<br/>
 
 ![sqorls_screenshot](https://user-images.githubusercontent.com/33335169/81467976-3d1fc880-9191-11ea-9878-f0e707cfd165.png)
 
+### TODO:
+
+- Hover-over menu for towers<br/>
+- Enemy/wave blurbs<br/>
+- Highlight paths<br/>
+- Countdown for subsequent waves<br/>
+- Further balancing<br/>
+- Enemy healthbars<br/>
+- Clickable tower menu<br/>
+- Victory music<br/>
+- Battle music 2<br/>
+- Defeat music<br/>
 
 ### Credits:
 

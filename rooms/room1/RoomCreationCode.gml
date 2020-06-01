@@ -1,6 +1,7 @@
-// reset all global variables
-
+// increment money
 global.coins += 100;
+
+// reset all global variables
 global.hp = 100;
 global.level = 1;
 global.spd = 2;
