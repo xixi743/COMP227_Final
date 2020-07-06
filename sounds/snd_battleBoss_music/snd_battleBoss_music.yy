@@ -1,5 +1,5 @@
 {
-    "id": "f717ee57-f62b-413a-9cc0-1eda915dbad3",
+    "id": "610437d9-0b35-4c4c-942b-2086a84ae6c5",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "snd_battleBoss_music",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 1
+    "volume": 0.5
 }
