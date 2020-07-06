@@ -1439,6 +1439,14 @@
             }
         },
         {
+            "Key": "f717ee57-f62b-413a-9cc0-1eda915dbad3",
+            "Value": {
+                "id": "dd606d7d-993a-4a69-97fa-7868f47d6e8d",
+                "resourcePath": "sounds\\snd_battleBoss_music\\snd_battleBoss_music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "f9de3b79-87dc-4b45-a093-c6dbf190d6da",
             "Value": {
                 "id": "7c176337-79ea-4b72-832c-9b0bd531f1c9",

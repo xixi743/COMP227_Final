@@ -18,3 +18,7 @@ global.NC_bonus = 0;
 global.cooler_bonus = 0;
 global.swann_bonus = 1;
 global.facilities_bonus = 0;
+
+// BOSS MUSIC
+audio_stop_all();
+audio_play_sound(snd_battleBoss_music, 1, true);
