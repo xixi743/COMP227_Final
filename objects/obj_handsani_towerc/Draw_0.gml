@@ -6,5 +6,5 @@ draw_set_color(c_white); // resetting to default
 
 if (hovering == true) {
 	draw_set_color(c_black);
-	draw_text(x-64, y-68, string("Hand Sanitizer"));
+	draw_text(x-64, y-64, string("Hand Sanitizer | 10dmg, 5 uses"));
 }

@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+enemy_hover = false;
+
 // for stage 4
 if (room == 6) {
 	if (x == 384 && y == -64){ // DO NOT CHANGE SPAWNER LOCATIONS

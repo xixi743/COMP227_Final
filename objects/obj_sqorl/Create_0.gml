@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+enemy_hover = false;
+
 // for tutorial stage
 if (room == 2) {
 	if (x == 1056 && y == 512){ // DO NOT CHANGE SPAWNER LOCATIONS

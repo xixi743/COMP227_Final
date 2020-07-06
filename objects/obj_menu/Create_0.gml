@@ -6,10 +6,8 @@ menu_y = y;
 button_h = 40;
 
 // Buttons
-button[0] = "New Game";
-button[1] = " ";
-button[2] = " ";
-button[3] = "Exit";
+button[0] = "Play!";
+button[1] = "Exit";
 
 buttons = array_length_1d(button);
 	// returns how many buttons are in the array

@@ -5,7 +5,7 @@ switch (menu_index) {
 		room_goto_next();
 		break;
 	
-	case 3:
+	case 1:
 		game_end();
 		break;
 }

@@ -8,5 +8,5 @@ draw_set_color(c_white); // resetting to default
 
 if (hovering == true) {
 	draw_set_color(c_black);
-	draw_text(x-60, y-68, string("KOXY DJ"));
+	draw_text(x-60, y-64, string("KOXY DJ | 15dmg"));
 }
