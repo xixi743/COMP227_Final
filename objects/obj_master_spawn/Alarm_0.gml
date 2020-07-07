@@ -40,16 +40,24 @@ if(spawn_count < spawn_amount) {
 		}
 	}
 	// if stage 4, start spawning on spawn3 and spawn4
+<<<<<<< Updated upstream
 	if (room == 6) {
 		instance_create_depth(obj_spawn3.x, obj_spawn3.y, -1, obj_sqorl);
 		instance_create_depth(obj_spawn4.x, obj_spawn4.y, -1, obj_spider);
 		// spawn on spawn1 and spawn2 if swann bought = 1
+=======
+	if (room == 5) {
+		instance_create_depth(obj_spawn3.x, obj_spawn3.y, -1, obj_sqorl);
+		instance_create_depth(obj_spawn4.x, obj_spawn4.y, -1, obj_spider);
+		// spawn on spawn2 if agc bonus = 1
+>>>>>>> Stashed changes
 		if (global.swann_bonus = 1) {
 			instance_create_depth(obj_spawn1.x, obj_spawn1.y, -1, obj_sqorl);
 			instance_create_depth(obj_spawn2.x, obj_spawn2.y, -1, obj_spider);
 			
 		}
 	}
+<<<<<<< Updated upstream
 	// if stage 5, start spawning on spawn3 and spawn4
 	if (room == 7) {
 		instance_create_depth(obj_spawn3.x, obj_spawn3.y, -1, obj_sqorl);
@@ -79,6 +87,8 @@ if(spawn_count < spawn_amount) {
 			instance_create_depth(obj_spawn4.x, obj_spawn4.y, -1, obj_sqorl);
 		}
 	}
+=======
+>>>>>>> Stashed changes
 	spawn_count++;
 	alarm[0] = spawn_rate;
 }

@@ -2,7 +2,11 @@
 {
     "name": "rm_victory",
     "id": "2f53828d-dd9b-482c-ad1f-53c7d3585faa",
+<<<<<<< Updated upstream
     "creationCodeFile": "RoomCreationCode.gml",
+=======
+    "creationCodeFile": "",
+>>>>>>> Stashed changes
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -43,7 +47,11 @@
             "id": "5092edf0-dd0b-4547-bf08-60afe73f8c0d",
             "animationFPS": 15,
             "animationSpeedType": "0",
+<<<<<<< Updated upstream
             "colour": { "Value": 4288239175 },
+=======
+            "colour": { "Value": 4279068192 },
+>>>>>>> Stashed changes
             "depth": 100,
             "grid_x": 32,
             "grid_y": 32,

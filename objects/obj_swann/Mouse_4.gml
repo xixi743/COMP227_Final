@@ -7,6 +7,10 @@
 
 if (isPurchased == 0 && global.coins >= cost) {
 	isPurchased = 1;
+<<<<<<< Updated upstream
 	global.coins-= cost;
+=======
+	global.coins-= 200;
+>>>>>>> Stashed changes
 	global.swann_bonus = 1;
 }

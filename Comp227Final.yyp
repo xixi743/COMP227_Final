@@ -144,6 +144,17 @@
         },
         {
             "Key": "101cd77e-b7b3-4e96-be02-f52a7a85a1ee",
+<<<<<<< Updated upstream
+=======
+            "Value": {
+                "id": "4d9d17a5-ef19-4224-ae60-8cffe882ca36",
+                "resourcePath": "sprites\\spr_pause\\spr_pause.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "11e8baa7-3e32-4d87-8c23-81f677503176",
+>>>>>>> Stashed changes
             "Value": {
                 "id": "4d9d17a5-ef19-4224-ae60-8cffe882ca36",
                 "resourcePath": "sprites\\spr_pause\\spr_pause.yy",
@@ -300,6 +311,14 @@
                 "id": "7ef2e72c-8b56-4330-957f-d0eda574eede",
                 "resourcePath": "fonts\\fnt_health\\fnt_health.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "2f53828d-dd9b-482c-ad1f-53c7d3585faa",
+            "Value": {
+                "id": "d8d00ddf-92f7-480e-a4ac-f86b7f6ea6e0",
+                "resourcePath": "rooms\\rm_victory\\rm_victory.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1096,6 +1115,17 @@
         },
         {
             "Key": "af2c6fa7-95f3-4cb8-8173-6c005ace237e",
+<<<<<<< Updated upstream
+=======
+            "Value": {
+                "id": "0d8c6931-6f83-47b5-ac04-767c1bfaecda",
+                "resourcePath": "paths\\pth_Cooler4\\pth_Cooler4.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
+            "Key": "b3fc3dec-dc88-4e02-b178-0cc9b028831c",
+>>>>>>> Stashed changes
             "Value": {
                 "id": "0d8c6931-6f83-47b5-ac04-767c1bfaecda",
                 "resourcePath": "paths\\pth_Cooler4\\pth_Cooler4.yy",

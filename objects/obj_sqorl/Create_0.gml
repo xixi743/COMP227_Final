@@ -66,6 +66,7 @@ if (room == 6) {
 		show_debug_message("spawn error");
 	}
 }
+<<<<<<< Updated upstream
 // for stage 5
 if (room == 7) { 
 	if (x == -64 && y == 128){ // DO NOT CHANGE SPAWNER LOCATIONS
@@ -90,6 +91,8 @@ if (room == 8) {
 		show_debug_message("spawn error");
 	}
 }
+=======
+>>>>>>> Stashed changes
 
 
 hp = global.hp;

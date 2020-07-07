@@ -10,6 +10,7 @@ if (room == 6) {
 	}
 	if (x == -64 && y == 608){ // DO NOT CHANGE SPAWNER LOCATIONS
 		path_start(pth_NC3, global.spd, path_action_stop, 1);
+<<<<<<< Updated upstream
 	}
 	else {
 		show_debug_message("spawn error");
@@ -40,6 +41,8 @@ if (room == 8) {
 	}
 	else if (x == 704 && y == 832) {
 		path_start(pth_Facilites3, global.spd, path_action_stop, 1);
+=======
+>>>>>>> Stashed changes
 	}
 	else {
 		show_debug_message("spawn error");

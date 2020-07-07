@@ -23,10 +23,13 @@ else if (global.level == 6 && room == 6) {
 }
 // trigger for moving to level 6
 else if (global.level == 6 && room == 7) {
+<<<<<<< Updated upstream
 	room_goto_next();
 }
 // trigger for moving to victory
 else if (global.level == 11 && room == 8) {
+=======
+>>>>>>> Stashed changes
 	room_goto_next();
 }
 // temp trigger for moving to next level
