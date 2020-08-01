@@ -34,6 +34,6 @@ else if (global.level == 11 && room == 8) {
 }
 // temp trigger for moving to next level
 // REMOVE BEFORE RELEASE
-if (keyboard_check_pressed(vk_control)) {
-	room_goto_next();
-}
+//if (keyboard_check_pressed(vk_control)) {
+//	room_goto_next();
+//}
